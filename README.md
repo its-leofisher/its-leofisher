@@ -1,6 +1,10 @@
 ### 👋
 
-Web engineer in CMS, Ecommerce and ERP systems.
+Web engineer plus other web domain related technologies and systems.
+
+## Stats
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-leofisher&count_private=true)](https://github.com/its-leofisher/github-readme-stats)
+
 
 <!--
 **its-leofisher/its-leofisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
