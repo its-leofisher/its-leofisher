@@ -3,7 +3,7 @@
 Web engineer plus other web domain related technologies and systems.
 
 ## Stats
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-leofisher&count_private=true)](https://github.com/its-leofisher/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-leofisher&count_private=true)](https://github.com/its-leofisher/)
 
 
 <!--
