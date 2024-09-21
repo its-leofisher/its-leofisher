@@ -5,4 +5,4 @@ I create software with web technologies.  Experienced with small to large framew
 Things I love:
 ☀️ 🐈 🌌 🌠 🍻 💻 ⛺ 🔭 🏀 🎵 🎧 🏖️ 🍷 📚 and more
 
-<img src="https://www.codewars.com/users/LeoNaN/badges/micro">
+<a href="https://www.codewars.com/users/LeoNaN" title="Leo Codewars Profile"><img src="https://www.codewars.com/users/LeoNaN/badges/micro" alt="Leo CodeWars Profile"></a>
