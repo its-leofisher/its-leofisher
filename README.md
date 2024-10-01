@@ -5,7 +5,7 @@ I create software with web technologies.  Experienced with small to large framew
 ### Things I love:
 ☀️ 🐈 🌌 🌠 🍻 💻 ⛺ 🔭 🏀 🎵 🎧 🏖️ 🍷 📚 🧑‍🤝‍🧑 🫂 and more
 
-### Stats and More
+### Additional Details
 Code Wars | Github Stats |
 --------- | --- |
 <a href="https://www.codewars.com/users/LeoNaN" title="Leo Codewars Profile"><img src="https://www.codewars.com/users/LeoNaN/badges/large" alt="Leo CodeWars Profile"></a> | [![Leo's GitHub stats](https://github-readme-stats-delta-one-73.vercel.app/api?username=its-leofisher&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github)](https://github.com/its-leofisher/) |
