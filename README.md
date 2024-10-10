@@ -2,6 +2,11 @@
 
 I create software with web technologies.  Experienced with small to large frameworks, not limited to: Laravel, Magento, Odoo (ERP), Shopify and WooCommerce.  Using my experience to architect and extend software systems, improve and make new processess, plan and optimize RDMS, and create API connections between them.  I understand OOP and MVC patterns ensuring proper abstractions between Frontend and Backend separation of concerns.
 
+When facing difficult challenges, this mantra helps me remember to come back:
+
+> "In the beginner’s mind there are many possibilities, but in the expert’s there are few..."
+> ― Shunryu Suzuki, Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice
+
 ### Interests:
 ☀️ 🐈 🌌 🌠 🍻 💻 ⛺ 🔭 🏀 🎵 🎧 🏖️ 🍷 📚 🧑‍🤝‍🧑 🫂 and more
 
