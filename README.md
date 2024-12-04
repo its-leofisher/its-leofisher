@@ -25,3 +25,4 @@ https://github.com/woocommerce/woocommerce | | https://github.com/chrislgarry/Ap
 https://github.com/WordPress/WordPress | | https://github.com/WordPress/book | https://github.com/ohmybash/oh-my-bash
 https://github.com/magento/magento2 | | https://github.com/busyloop/lolcat | https://github.com/mage2tv/magento-cache-clean
 https://github.com/Shopify/theme-tools | | | https://github.com/GoogleChromeLabs/squoosh
+| | | | https://simpleicons.org/
