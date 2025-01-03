@@ -27,3 +27,4 @@ https://github.com/magento/magento2 | | https://github.com/busyloop/lolcat | htt
 https://github.com/Shopify/theme-tools | | | https://github.com/GoogleChromeLabs/squoosh
 | | | | https://simpleicons.org/
 | | | | https://webhook.site/
+| | | | https://caniuse.com/
