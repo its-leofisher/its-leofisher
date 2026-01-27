@@ -15,6 +15,11 @@ Code Wars | Github Stats |
 --------- | --- |
 <a href="https://www.codewars.com/users/LeoNaN" title="Leo Codewars Profile"><img src="https://www.codewars.com/users/LeoNaN/badges/large" alt="Leo CodeWars Profile"></a> | [![Leo's GitHub stats](https://github-readme-stats-delta-one-73.vercel.app/api?username=its-leofisher&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github)](https://github.com/its-leofisher/) |
 
+Mage-OS Professional Member supporting community-driven innovation in the Magento ecosystem:
+
+<a href="https://mage-os.org"><img width="223" height="90" alt="Image" src="https://github.com/user-attachments/assets/faf78549-7255-47ec-b7f7-b8610a4f58a3" /></a>
+
+
 ### Favorite Repos and Others
 Frameworks | Programming | Inspiration | Useful | Thinkers |
 ---------- | ----------- | ----------- | ------ | -------- |
