@@ -1,8 +1,13 @@
 ### 👋
 
-I create software with web technologies.  Experienced with small to large frameworks, not limited to: Laravel, Magento, Odoo (ERP), Shopify and WooCommerce.  Using my experience to architect and extend software systems, improve and make new processess, plan and optimize RDMS, and create API connections between them.  I understand OOP and MVC patterns ensuring proper abstractions between Frontend and Backend separation of concerns.
+I'm a senior full-stack engineer building software solutions across e-commerce, ERP, and enterprise platforms. I specialize in architecting scalable systems, optimizing database performance, and creating seamless integrations between complex business applications.
 
-When facing difficult challenges, this mantra helps me remember to come back:
+Core Experience:
+Magento/Adobe Commerce • Odoo ERP • Shopify • WooCommerce • WordPress • Laravel
+
+I apply OOP and MVC principles to create clean separations of concern, leverage edge computing, and use New Relic for deep performance analysis. My work focuses on extending platforms, streamlining processes, and building robust API connections that make businesses run better.
+
+When facing difficult challenges, I return to this reminder:
 
 > "In the beginner’s mind there are many possibilities, but in the expert’s there are few..."
 > ― Shunryu Suzuki, Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice
