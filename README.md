@@ -17,13 +17,12 @@ When facing difficult challenges, I return to this reminder:
 
 ### Additional Details
 Code Wars | Github Stats |
---------- | --- |
-<a href="https://www.codewars.com/users/LeoNaN" title="Leo Codewars Profile"><img src="https://www.codewars.com/users/LeoNaN/badges/large" alt="Leo CodeWars Profile"></a> | [![Leo's GitHub stats](https://github-readme-stats-delta-one-73.vercel.app/api?username=its-leofisher&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github)](https://github.com/its-leofisher/) |
+--------- | ------------ |
+<a href="https://www.codewars.com/users/LeoNaN" title="Leo Codewars Profile"><img src="https://www.codewars.com/users/LeoNaN/badges/large" alt="Leo CodeWars Profile"></a> | [![Leo's GitHub stats](https://github-readme-stats-delta-one-73.vercel.app/api?username=its-leofisher&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github)](https://github.com/its-leofisher/) 
 
-Mage-OS Professional Member supporting community-driven innovation in the Magento ecosystem:
-
-<a href="https://mage-os.org"><img width="223" height="90" alt="Image" src="https://github.com/user-attachments/assets/faf78549-7255-47ec-b7f7-b8610a4f58a3" /></a>
-
+MageOS    | AbuseIPDb |
+--------- | --------- |
+Pro Member supporting community-driven innovation in the Magento ecosystem <a href="https://mage-os.org"><img width="223" height="90" alt="Image" src="https://github.com/user-attachments/assets/faf78549-7255-47ec-b7f7-b8610a4f58a3" /></a> | <a href="https://www.abuseipdb.com/user/273425" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks"><img src="https://www.abuseipdb.com/contributor/273425.svg" alt="AbuseIPDB Contributor Badge" style="width: 249px;"></a>
 
 ### Favorite Repos and Others
 Frameworks | Programming | Inspiration | Useful | Thinkers |
