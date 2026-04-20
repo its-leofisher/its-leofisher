@@ -37,3 +37,4 @@ https://github.com/Shopify/theme-tools | | https://github.com/mohd-akram/st?tab=
 | | |  | https://simpleicons.org/ | 
 | | | | https://webhook.site/ | 
 | | | | https://caniuse.com/ | 
+| | | | https://jakearchibald.github.io/svgomg/ |
